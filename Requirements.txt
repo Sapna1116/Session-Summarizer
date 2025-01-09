@@ -1,0 +1,7 @@
+langchain
+openai
+streamlit
+openai-whisper
+warnings
+moviepy
+pytube
