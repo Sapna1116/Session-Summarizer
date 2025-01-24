@@ -35,6 +35,7 @@ To utilize the tool:
 - Run the frontend.py module to access the user interface.
 - Select the video source type and follow the prompts.
 - Upon selecting "Process," the tool will generate the required outputs.
+- Also, integrated cost-analysis functionality to estimate the resource utilization for OpenAI LLM calls, ensuring cost-efficiency in API usage.
 
 ### SECURITY
 
